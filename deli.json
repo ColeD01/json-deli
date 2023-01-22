@@ -1,0 +1,180 @@
+{
+    "Deli-menu": {
+        "appetizers": [
+            {
+                "name": "Dinner Salad",
+                "ingredients": [
+                    "lettuce",
+                    "tomatoes",
+                    "carrots",
+                    "cucumber",
+                    "dressing",
+                    "baconBits"
+                ],
+                "description": "Hand tossed dinner salad"
+            },
+            {
+                "name": "Loaded Potatoes",
+                "ingredients": [
+                    "bakedPotato",
+                    "onions",
+                    "baconBits",
+                    "cilantro",
+                    "sourCream",
+                    "cheese"
+                ],
+                "description": "Baked to perfection"
+            },
+            {
+                "name": "Hot Wings",
+                "ingredients": [
+                    "2lbs chicken wings",
+                    "FranksRedHot",
+                    "carrot sticks"
+                ],
+                "description": "Ranch or Bleu Cheese upon request"
+            }
+        ],
+        "coldSandwiches": [
+            {
+                "name": "coldCutTrio",
+                "ingredients": [
+                    "mini loaf",
+                    "ham",
+                    "turkey",
+                    "pepperoni",
+                    "yourChoiceOfToppings"
+                ],
+                "description": "Freshly Sliced to Order"
+            },
+            {
+                "name": "TunaSalad",
+                "ingredients": [
+                    "4oz ChickenOf Sea",
+                    "whole wheat bread",
+                    "potato Chips",
+                    "pickle-mayo-mustard blend"
+                ],
+                "description": "Not our best itme but still good."
+            },
+            {
+                "name": "Ham & Turkey",
+                "ingredients": [
+                    "Lettuce",
+                    "Salt N Pepper",
+                    "pickle-mayo-mustard blend",
+                    "hot peppers",
+                    "houseChips"
+                ],
+                "description": "A Classic"
+            }
+        ],
+        "hotSandwiches": [
+            {
+                "name": "Toasted Meatball",
+                "ingredients": [
+                    "deli loaf",
+                    "5 meatballs",
+                    "marina sauce",
+                    "parmesan cheese",
+                    "frenchOnions"
+                ],
+                "description": "Family Recipe!"
+            },
+            {
+                "name": "Calzone",
+                "ingredients": [
+                    "pepperoni",
+                    "sausage",
+                    "bacon",
+                    "mozzarella cheese",
+                    "buttered crust"
+                ],
+                "description": "Made Fresh per order!"
+            },
+            {
+                "name": "TunaMeltNSoup",
+                "ingredients": [
+                    "4oz ChickenOf Sea",
+                    "whole wheat bread",
+                    "sharp cheddar cheese",
+                    "soup of the day"
+                ],
+                "description": "Soup And Sandwiches"
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Apple Pie",
+                "ingredients": [
+                    "pie-crust",
+                    "fresh apples",
+                    " sugar",
+                    "flour"
+                ],
+                "description": "Nice warm apple pie, Very popular"
+            },
+            {
+                "name": "Cookies With Sprinkles",
+                "ingredients": [
+                    "chocolate frosting",
+                    "sprinkles",
+                    "cookie dough"
+                ],
+                "description": "Freshly Baked Cookies"
+            },
+            {
+                "name": "Ice Cream",
+                "flavors": [
+                    "chocolate",
+                    "vanilla",
+                    "strawberry",
+                    "Mint Chocolate Chip",
+                    "Chocolate Chip Cookie Dough"
+                ],
+                "description": "Wide selection of Flavors!"
+            }
+        ],
+        "drinks": [
+            {
+                "name": "Soda",
+                "flavors": [
+                    "Pepsi",
+                    "Coke",
+                    "MTNDEW",
+                    "Orange"
+                ],
+                "description": "All the Name Brands!"
+            },
+            {
+                "name": "Beer",
+                "type": [
+                    "Light",
+                    "Super",
+                    "IPA",
+                    "Dark"
+                ],
+                "description": "Nice cold beer here!"
+            },
+            {
+                "name": "Coffee",
+                "ingredients": [
+                    "fresh grounds",
+                    "creamer",
+                    "sugar"
+                ],
+                "description": "Hot and fresh "
+            },
+            {
+                "name": "Tea",
+                "ingredients": [
+                    "earl-grey",
+                    "green",
+                    "Lemon Zing",
+                    "FrenchBlend"
+                ],
+                "description": "Very Soothing"
+            }
+        ]
+    }
+}
